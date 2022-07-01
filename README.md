@@ -1,2 +1,2 @@
-# monreal
-A utility for MONitoring the stability of software vendors and assessing the possibility of security patching according to the REcommended ALgorithm.
+# MonReAl
+A utility for **MON**itoring the stability of software vendors and assessing the possibility of security patching according to the **RE**commended **AL**gorithm.
