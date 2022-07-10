@@ -1,0 +1,53 @@
+{
+    "event_probability": {
+        "Informal condemnation of the company in the media": 50,
+        "Official sanctions against the country": 100,
+        "Official sanctions against company management": 50,
+        "Official sanctions against the company": 80,
+        "The danger of secondary sanctions against the vendor": 80
+    },
+    "action_weight": {
+        "Remote blocking of additional functions": 10,
+        "Update blocking": 15,
+        "Remote blocking of main functions": 30,
+        "License revocation": 45,
+        "Unauthorized transfer of data to third parties": 70
+    },
+    "action_on_event_probability": {
+        "Informal condemnation of the company in the media": {
+            "Remote blocking of additional functions": 0,
+            "Update blocking": 0,
+            "Remote blocking of main functions": 0,
+            "License revocation": 0,
+            "Unauthorized transfer of data to third parties": 0
+        },
+        "Official sanctions against the country": {
+            "Remote blocking of additional functions": 100,
+            "Update blocking": 100,
+            "Remote blocking of main functions": 100,
+            "License revocation": 100,
+            "Unauthorized transfer of data to third parties": 100
+        },
+        "Official sanctions against company management": {
+            "Remote blocking of additional functions": 100,
+            "Update blocking": 100,
+            "Remote blocking of main functions": 100,
+            "License revocation": 100,
+            "Unauthorized transfer of data to third parties": 100
+        },
+        "Official sanctions against the company": {
+            "Remote blocking of additional functions": 100,
+            "Update blocking": 100,
+            "Remote blocking of main functions": 100,
+            "License revocation": 100,
+            "Unauthorized transfer of data to third parties": 100
+        },
+        "The danger of secondary sanctions against the vendor": {
+            "Remote blocking of additional functions": 100,
+            "Update blocking": 100,
+            "Remote blocking of main functions": 100,
+            "License revocation": 100,
+            "Unauthorized transfer of data to third parties": 100
+        }
+    }
+}
